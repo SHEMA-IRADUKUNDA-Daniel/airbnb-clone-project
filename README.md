@@ -1,4 +1,38 @@
 # airbnb-clone-project 
+
+# Project Overview
+
+It is a full-stack clone of the popular accommodation booking platform Airbnb. The goal is to develop a functional web application where users can browse property listings, view detailed property information, and complete bookings. The project covers both front-end and back-end development, including UI design, API integration, database management, and deployment.
+
+# Goals
+
+Recreate core functionality of Airbnb’s booking system (listings, detail view, checkout flow).
+
+Apply best practices in HTML, CSS, JavaScript, and React.
+
+Build a responsive, accessible, and user-friendly interface.
+
+Collaborate using Git and GitHub.
+
+
+# Tech Stack
+
+HTML5 – Page structure
+
+CSS3 / SCSS – Styling
+
+JavaScript (ES6+) – Logic and interactivity
+
+React – Component-based frontend framework
+
+Vite – Build tool and dev server
+
+Git / GitHub – Version control and collaboration
+
+Figma – Design and prototyping
+
+
+
 # UI/UX Design Planning
 
 1. Design Goals
@@ -42,6 +76,8 @@ Primary: #34967C
 Secondary color: #FFA800
 
 Secondary color(black): #161117
+
+Shimmer: #FFFFFF
 
 Text: #161117
 
