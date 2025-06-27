@@ -37,21 +37,21 @@ User authentication
 
 1. Color Styles:
 
-Primary: #FF5A5F
+Primary: #34967C
 
-Secondary: #008489
+Secondary color: #FFA800
 
-Background: #FFFFFF
+Secondary color(black): #161117
 
-Text: #222222
+Text: #161117
 
-Secondary Text: #717171
+
 
 
 2. Typography:
 
 
-Primary Font: Circular, Medium (500), 16px
+Primary Font: Quicksand
 
 Headings: Circular, Bold (700), 24px-32px
 
@@ -77,36 +77,79 @@ UI Component Patterns
 Planned Components
 
 1. Navbar
+   
+Logo  
 
-Logo
+⁠Location, Check-in, Check-out, Guests search input (combined)  
 
-Search bar
+⁠Sign in / Sign up buttons  
 
-User navigation
+User profile icon  
 
-Responsive menu
+Responsive design for menu collapse  
 
-2. Property Card
 
-Property image
+2. Hero Section
+   
+⁠Background image  
 
-Basic details (price, location, rating)
+⁠Main headline (“Find your favorite place here!”)  
 
-Favorite button
+Subtext  
 
-Responsive layout
+Promotional tags (Top Villa, Free Reschedule, etc.)
 
-3. Footer
+4. Filter & Sort Bar
+   
+⁠Filter button  
 
-Site links
+Sort dropdown (e.g., “Sort by: Highest Price”)  
 
-Company information
+Tags (e.g., All, Top Villa, Self Check-in...)
 
-Social media links
+5. Property Card
+   
+Property image  
 
-Copyright information
+Title and location  
 
-Each component will be designed for reusability and consistency across the application.
+Ratings & tags (Self Check-in, Free Reschedule, etc.)  
+
+Price
+
+⁠Favorite (heart) button  
+
+⁠Responsive grid layout  
+
+6. Footer
+   
+.  Brand Info  
+
+  - Logo
+    
+  - Short platform description
+      
+•⁠  ⁠Navigation Columns  
+
+  - Explore: Cities & destinations
+    
+  - Company: About, Blog, Career, etc.
+    
+  - Help: Support, Cancel booking, Refunds
+    
+•⁠  ⁠Legal Links (Bottom row) 
+
+  - Terms of Service
+    
+  - Policy Service
+    
+  - Cookies Policy
+    
+  - Partners
+    
+•⁠  ⁠Hotel notice (small print above legal links)  
+
+•⁠  ⁠Responsive layout  
 
 
 
